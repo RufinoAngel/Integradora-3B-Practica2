@@ -34,4 +34,8 @@ También podemos aplicar estilos básicos de alineación:
 
 Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la izquierda utilizando la propiedad de alineación 
 
+<p align="right">
+Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación
+<\p>
+
 
