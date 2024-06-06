@@ -46,6 +46,19 @@ Este párrafo está centrado usando la propiedad de alineación Este párrafo es
 Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineación
 </p>
 
-### 4. Texto Enfatizado (BOLD,ITALIC,BOLD/INTALIC)
+### 4. Texto Enfatizado (BOLD,ITALIC,BOLD/ITALIC)
 Si el texto qué deseamos enfatizar se encuentra en un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación
 
+##### Texto en Negrita (BOLD)
+Para poder poner el texto en negrita, este deberá ser encerrado entre dobles ** 
+
+EJEMPLO:
+Texto Texto Texto Texto *Texto Importante* Texto Texto Texto Texto Texto Texto 
+
+##### Texto en cursiva (ITALIC)
+Para poder poner el texto en cursiva, este deberá ser encerrado con la 
+Texto Texto Texto Texto <i>Texto Importante</i> Texto Texto Texto Texto Texto Texto
+
+##### Texto en cursiva y negrita(BOLD/ITALIC)
+Para poder poner el texto en cursiva y negrita, este deberá ser encerrado con la 
+Texto TextoTexto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto
