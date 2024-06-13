@@ -156,3 +156,8 @@ Documentación creada por: ***Ángel de Jesús Rufino Mendoza***
 
 
 <http://utxicotepec.edu.mx>
+
+#### 8. Imagenes
+
+Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imagen. Luego, escribe el vínculo de la imagen entre paréntesis ().
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
