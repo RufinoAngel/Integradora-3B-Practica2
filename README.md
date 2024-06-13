@@ -164,11 +164,25 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 #### 9.Tables (TABLES)
-Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para poder etiquetarlas podemos utilizar el caracter \| para delimitar las filas.
+Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para poder etiquetarlas podemos utilizar el caracter \ | para delimitar las filas.
 **Ejemplo:**  
-|Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4|
-|*************|*************** | ************* | **************|
-| Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3 | Fila 1 Celda 4 |
-| Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3 | Fila 2 Celda 4 |
-| Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3 | Fila 3 Celda 4 |
-| Fila 4 Celda 1 | Fila 4 Celda 2 | Fila 4 Celda 3 | Fila 4 Celda 4 |
+<br>
+| \Encabezado1 | \Encabezado2 | \Encabezado3 | \Encabezado4 |
+| *********** | *********** | *********** | *********** |
+| Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3 | Fila 1 Celda 4|
+| Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3 | Fila 2 Celda 4|
+| Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3 | Fila 3 Celda 4|
+| Fila 4 Celda 1 | Fila 4 Celda 2 | Fila 4 Celda 3 | Fila 4 Celda 4|
+**Ejemplos**
+
+
+
+Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusion de filas debemos utilizar el estandar de HTML, usando los tags :\<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan"
+
+**Ejemplo**
+
+<table>
+ <tr>
+ <th>Encabezado 1</th>
+ <th>Encabezado 2</th>
+ 
