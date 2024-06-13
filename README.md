@@ -166,8 +166,8 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 #### 9.Tables (TABLES)
 Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para poder etiquetarlas podemos utilizar el caracter \ | para delimitar las filas.
 **Ejemplo:**  
-<br>
-| \Encabezado1 | \Encabezado2 | \Encabezado3 | \Encabezado4 |
+\
+| Encabezado1 | Encabezado2 | Encabezado3 | Encabezado4 |
 | *********** | *********** | *********** | *********** |
 | Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3 | Fila 1 Celda 4|
 | Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3 | Fila 2 Celda 4|
@@ -185,4 +185,15 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusio
  <tr>
  <th>Encabezado 1</th>
  <th>Encabezado 2</th>
- 
+ <th>Encabezado 3</th>
+ <th>Encabezado 4</th>
+ </tr>
+ <tr>
+    <td>Fila 1 Celda 1 </td>
+    <td>Fila 1 Celda 2</td>
+    <td>Fila 1 Celda 3 </td>
+    <td>Fila 1 Celda 4</td>
+ </tr>
+    <tr>
+       
+    </tr>
