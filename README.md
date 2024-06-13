@@ -167,7 +167,7 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 #### 8.1 Imagenes 
 Si la documentacion requiere incorporar imágenes, esquemas, modelos, fotografias o cualquier representación gráfica, utilizaremos la estructura de la liga, maquetando el nombre de la imagen entre un signo de admiración de cierre y la liga de referencia a la imagen usando paréntesis.
 **Ejemplo**
-
+![Mariposa](https://github.com/RufinoAngel/Integradora-3B-Practica2/blob/main/mariposa.jpg)
 
 
 #### 9.Tables (TABLES)
