@@ -160,4 +160,15 @@ Documentación creada por: ***Ángel de Jesús Rufino Mendoza***
 #### 8. Imagenes
 
 Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El texto alternativo es un texto corto equivalente a la información de la imagen. Luego, escribe el vínculo de la imagen entre paréntesis ().
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+#### 9.Tables (TABLES)
+Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para poder etiquetarlas podemos utilizar el caracter \| para delimitar las filas.
+**Ejemplo:**  
+|Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4|
+|*************|*************** | ************* | **************|
+| Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3 | Fila 1 Celda 4 |
+| Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3 | Fila 2 Celda 4 |
+| Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3 | Fila 3 Celda 4 |
+| Fila 4 Celda 1 | Fila 4 Celda 2 | Fila 4 Celda 3 | Fila 4 Celda 4 |
